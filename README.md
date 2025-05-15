@@ -1,8 +1,10 @@
 # 👋 Olá! Bem-vindo ao meu Conversor de Moedas!
 
-Este projeto é um conversor de moedas desenvolvido em Java que utiliza a API ExchangeRate para obter taxas de câmbio atualizadas. O objetivo principal deste projeto é demonstrar a integração de uma API REST em Java, aplicando conceitos de encapsulamento e boas práticas de programação orientada a objetos.
+Este projeto é um conversor de moedas desenvolvido em Java que utiliza a API ExchangeRate para obter taxas de câmbio atualizadas. O objetivo principal deste projeto é demonstrar a integração de uma API REST em Java, aplicando conceitos de encapsulamento e boas práticas de programação orientada a objetos. Foi desenvolvido para atender ao desafio do 1º Challenger da Especialização Back-End do Programa ONE em parceria com Alura Latam.
 
-## Funcionalidades
+Pretendo continuar aprimorando de modo que ele possa converter qualquer moeda base em qualquer outra moeda, desenvolver a interface gráfica entre outras funcionalidades. Aguardem os próximos capítulos... 
+
+## A princípio, suas funcionalidades são:
 
 - **Conversão de Moedas**: Converte valores em Real (BRL) para diversas moedas, tais como:
   - Dólar Americano (USD)
